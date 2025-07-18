@@ -1,0 +1,3 @@
+/media/phm/New Volume/Minh/Projects/qt6-cpp-gui-programming-cookbook-eng/three-buttons/build/CMakeFiles/three-buttons.dir
+/media/phm/New Volume/Minh/Projects/qt6-cpp-gui-programming-cookbook-eng/three-buttons/build/CMakeFiles/edit_cache.dir
+/media/phm/New Volume/Minh/Projects/qt6-cpp-gui-programming-cookbook-eng/three-buttons/build/CMakeFiles/rebuild_cache.dir
