@@ -1,3 +1,0 @@
-/media/phm/New Volume/Minh/Projects/qt6-cpp-gui-programming-cookbook-eng/login-form/build/CMakeFiles/login-form.dir
-/media/phm/New Volume/Minh/Projects/qt6-cpp-gui-programming-cookbook-eng/login-form/build/CMakeFiles/edit_cache.dir
-/media/phm/New Volume/Minh/Projects/qt6-cpp-gui-programming-cookbook-eng/login-form/build/CMakeFiles/rebuild_cache.dir
