@@ -11,3 +11,6 @@ add_executable(login-form
 )
 
 target_link_libraries(login-form Qt6::Widgets)
+
+# Copy icons
+file(COPY icons/ DESTINATION ${CMAKE_CURRENT_BINARY_DIR}/icons)
