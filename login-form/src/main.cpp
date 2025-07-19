@@ -69,6 +69,16 @@ int main(int argc, char* argv[]) {
   // -----------------------------------------------------------------
 
   // -------------- Horizontal layout at bottom -----------------------
+  QHBoxLayout* bottomRow = new QHBoxLayout();
+  // create Widget first
+  QWidget* loginForm = new QWidget();
+  loginForm->setObjectName("loginForm");
+  loginForm->setSizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
+  loginForm->setMinimumSize(350, 200);
+  // we put a VerticalLayout inside that Widget, as Layout doesn't have shape (it spans the whole containing area), but Widget does
+  QVBoxLayout* loginFormLayout = new QVBoxLayout(loginForm);
+  bottomRow->addLayout(loginFormLayout);
+
   
   // ------------------------------------------------------------------
 
